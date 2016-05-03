@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" xml:lang="en-us" SourceControlBound="false" MasterPageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl" Comment="This template provides an example of a policy and procedures document authored in Flare. It includes a policy topic template, several sample policies, and other files to help get you started with your own project. It can be used to generate both print and online outputs.">
+    <Synchronize>
+        <Mapping ProjectPath="Content/concept topics/addresses.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/addresses.htm" />
+        <Mapping ProjectPath="Content/concept topics/admin_function.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/admin_function.htm" />
+        <Mapping ProjectPath="Content/concept topics/admin_menu.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/admin_menu.htm" />
+        <Mapping ProjectPath="Content/concept topics/basic_info_page.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/basic_info_page.htm" />
+        <Mapping ProjectPath="Content/concept topics/commissions.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/commissions.htm" />
+        <Mapping ProjectPath="Content/concept topics/display_section.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/display_section.htm" />
+        <Mapping ProjectPath="Content/concept topics/Email Policy.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/Email Policy.htm" />
+        <Mapping ProjectPath="Content/concept topics/forms.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/forms.htm" />
+        <Mapping ProjectPath="Content/concept topics/General IT Policies.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/General IT Policies.htm" />
+        <Mapping ProjectPath="Content/concept topics/insurable_interests.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/insurable_interests.htm" />
+        <Mapping ProjectPath="Content/concept topics/manage_products.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/manage_products.htm" />
+        <Mapping ProjectPath="Content/concept topics/named_insureds.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/named_insureds.htm" />
+        <Mapping ProjectPath="Content/concept topics/nav_bar.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/nav_bar.htm" />
+        <Mapping ProjectPath="Content/concept topics/page_comp.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/page_comp.htm" />
+        <Mapping ProjectPath="Content/concept topics/policy_activity.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/policy_activity.htm" />
+        <Mapping ProjectPath="Content/concept topics/prem_summary.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/prem_summary.htm" />
+        <Mapping ProjectPath="Content/concept topics/premium_modifiers.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/premium_modifiers.htm" />
+        <Mapping ProjectPath="Content/concept topics/quotes.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/quotes.htm" />
+        <Mapping ProjectPath="Content/concept topics/Reporting Misconduct.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/Reporting Misconduct.htm" />
+        <Mapping ProjectPath="Content/concept topics/schedule.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/schedule.htm" />
+        <Mapping ProjectPath="Content/concept topics/search.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/search.htm" />
+        <Mapping ProjectPath="Content/concept topics/search_results.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/search_results.htm" />
+        <Mapping ProjectPath="Content/concept topics/status_codes.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/status_codes.htm" />
+        <Mapping ProjectPath="Content/concept topics/wildcard_search.htm" ExternalPath="https://tst-sharepoint.wrberkley.com/Intranet/segment/hr/train/Flare Projects/SSP Project/concept topics/wildcard_search.htm" />
+    </Synchronize>
+</CatapultProject>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="BCS Help files"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\BCS Help Project\BCSHelp\Web_2014\BCS Help Project\Publish"
+  Port=""
+  ViewUrl=""
+  Type="file"></CatapultDestination>

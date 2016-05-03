@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="BCS Web Help"
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot; or Default.PrintOnly] "
+  Skin="/Project/Skins/bcshelpskin.flskn"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  AliasFile="/Project/Advanced/bcshelp.flali">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/BCSWebhelp.fldes" />
+  </Destinations>
+</CatapultTarget>

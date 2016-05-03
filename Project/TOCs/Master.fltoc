@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Berkley Clearance System"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/PolicyGuide.flpgl"
+    PageType="title"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    ComputedTocDepth="3"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    Link="/Content/Front Matter/Cover.htm">
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/Front Matter/Table of Contents.htm"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false"
+      ComputedTocDepth="3" />
+    <TocEntry
+      Title="Berkley Clearance System"
+      Link="/Content/concept topics/berkly_clearance_system.htm" />
+    <TocEntry
+      Title="Clients"
+      Link="/Content/concept topics/clients.htm" />
+    <TocEntry
+      Title="Submission"
+      Link="/Content/concept topics/submission.htm" />
+    <TocEntry
+      Title="Duplicates"
+      Link="/Content/concept topics/duplicates.htm" />
+    <TocEntry
+      Title="Application"
+      Link="/Content/concept topics/application.htm" />
+    <TocEntry
+      Title="Search"
+      Link="/Content/concept topics/search.htm" />
+    <TocEntry
+      Title="Agency"
+      Link="/Content/concept topics/agency_page.htm" />
+    <TocEntry
+      Title="Tools"
+      Link="/Content/concept topics/tools.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Administration"
+    Link="/Content/concept topics/admin_tool.htm">
+    <TocEntry
+      Title="Class Codes"
+      Link="/Content/concept topics/class_codes.htm" />
+    <TocEntry
+      Title="Custom Fields"
+      Link="/Content/concept topics/custom_fields.htm" />
+    <TocEntry
+      Title="Users"
+      Link="/Content/concept topics/users.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Index"
+    Link="/Content/Index.htm" />
+</CatapultToc>

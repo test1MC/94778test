@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot; or Default.PrintOnly] "
+  AliasFile="/Project/Advanced/bcshelp.flali"
+  Skin="/Project/Skins/HTML5.flskn">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/BCSHelp.fldes" />
+  </Destinations>
+</CatapultTarget>

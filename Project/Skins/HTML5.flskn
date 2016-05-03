@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="WebHelp2"
+  Comment="HTML5 skin"
+  Anchors="Left,Right,Top,Bottom,Width,Height"
+  Width="545px"
+  Height="698px"
+  Top="241px"
+  Left="719px"
+  Bottom="85px"
+  Right="16px"
+  Tabs="TOC,Index"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="false"
+  UseDefaultBrowserSetup="false"
+  Title="Berkley Clearance System Help"
+  BrowserSetup="Toolbar,Menu">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Main Page">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#f4f4f4</Property>
+          <Property
+            Name="BackgroundGradient">vertical #f4f4f4 #f4f4f4</Property>
+          <Property
+            Name="BackgroundImage">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="Display">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="Height">25px</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Logo">
+            <Properties>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Main Page">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#f4f4f4</Property>
+              <Property
+                Name="BackgroundGradient">vertical #f4f4f4 #f4f4f4</Property>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+  <WebHelpOptions
+    NavigationPaneWidth="160"
+    HideNavigationOnStartup="true" />
+  <Toolbar
+    EnableCustomLayout="true"
+    Buttons="Print|Separator|TopicRatings|Separator|EditUserProfile|Filler|PreviousTopic|CurrentTopicIndex|NextTopic" />
+</CatapultSkin>

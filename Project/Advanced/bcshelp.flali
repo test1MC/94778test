@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="INDEX" Link="/Content/Index.htm" />
+    <Map Name="ADMIN_TOOL" Link="/Content/concept topics/admin_tool.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="BERKLY_CLEARANCE_SYSTEM" Link="/Content/concept topics/berkly_clearance_system.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="CLIENTS" Link="/Content/concept topics/clients.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="SEARCH" Link="/Content/concept topics/search.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="TOOLS" Link="/Content/concept topics/tools.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="COVER" Link="/Content/Front Matter/Cover.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="TABLE_OF_CONTENTS" Link="/Content/Front Matter/Table of Contents.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="AGENCY_PAGE" Link="/Content/concept topics/agency_page.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="APS_SYNC" Link="/Content/concept topics/aps_sync.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="CLASS_CODES" Link="/Content/concept topics/class_codes.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="COMPANY_FIELDS" Link="/Content/concept topics/company_fields.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="CUSTOM_FIELDS" Link="/Content/concept topics/custom_fields.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="SUBMISSION" Link="/Content/concept topics/submission.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="TESTS_EXCEPTIONS" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="TESTS_VALIDATION" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="UNDERWRITING_UNIT" Link="/Content/concept topics/underwriting_unit.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="USERS" Link="/Content/concept topics/users.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="DUPLICATES" Link="/Content/concept topics/duplicates.htm" Skin="/Project/Skins/HTML5.flskn" />
+    <Map Name="APPLICATION" Link="/Content/concept topics/application.htm" Skin="/Project/Skins/HTML5.flskn" />
+</CatapultAliasFile>

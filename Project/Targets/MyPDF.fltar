@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Adobe PDF Target"
+  Type="PDF"
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="false"
+  InjectBookHeadings="false"
+  ConditionTagExpression="exclude[&quot;Default.Not Ready For Publication&quot;] ">
+  <DocumentProperties
+    Author=""
+    Title="Genesys User Guide" />
+  <PDF
+    ShowUsedBookmarks="false" />
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>
